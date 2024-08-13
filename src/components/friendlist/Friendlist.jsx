@@ -1,5 +1,5 @@
 import { listItem, list } from "./Friendlist.module.css";
-import css from "./FriendList.module.css";
+import css from "./Friendlist.module.css";
 import clsx from "clsx";
 export default function FriendList({ friends }) {
   return (
